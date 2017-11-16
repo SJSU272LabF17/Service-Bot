@@ -1,3 +1,17 @@
+# Project-Team-18
+
+Chatbot for CMPE 272-01
+
+Team
+* Chandan Paranjape
+* Mohit Shah
+* Keval Shah
+* Sunny Udhani
+
+### Steps for using ec2 and facebook-messenger
+
+
+
 # Getting started with Facebook Messenger Platform on EC2 (AWS)
 This walkthrough describes how to create your own bot with Facebook Messenger Platform in few easy steps and how to run it on your EC2 (Amazon Web Service).
 
