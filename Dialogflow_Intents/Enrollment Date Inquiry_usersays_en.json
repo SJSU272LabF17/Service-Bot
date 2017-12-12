@@ -1,0 +1,130 @@
+[
+  {
+    "id": "b4424927-e7c3-40df-be96-37b199b98f38",
+    "data": [
+      {
+        "text": "What is date of ",
+        "userDefined": false
+      },
+      {
+        "text": "enrollment",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "spring",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      },
+      {
+        "text": " semester ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442739
+  },
+  {
+    "id": "251f8e7b-61bf-4c26-b6a8-280207f111e8",
+    "data": [
+      {
+        "text": "What is date of ",
+        "userDefined": false
+      },
+      {
+        "text": "enrollment",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "spring",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      },
+      {
+        "text": " semester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442739
+  },
+  {
+    "id": "42165633-6fa4-459b-a06f-a9453f86dfad",
+    "data": [
+      {
+        "text": "What is date of ",
+        "userDefined": false
+      },
+      {
+        "text": "enrollment",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "fall",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      },
+      {
+        "text": " semester ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442739
+  },
+  {
+    "id": "00b4a90d-d2b6-4f81-914f-0d2d837645a3",
+    "data": [
+      {
+        "text": "What is date of ",
+        "userDefined": false
+      },
+      {
+        "text": "enrollment",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "fall",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      },
+      {
+        "text": " semester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442739
+  }
+]

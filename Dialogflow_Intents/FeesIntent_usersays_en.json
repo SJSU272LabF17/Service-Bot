@@ -1,0 +1,150 @@
+[
+  {
+    "id": "f61ef334-8bd9-4854-b8bc-02a80b980741",
+    "data": [
+      {
+        "text": "amount",
+        "alias": "Fees",
+        "meta": "@Fees",
+        "userDefined": false
+      },
+      {
+        "text": " to be paid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510873829
+  },
+  {
+    "id": "fa1c088c-c156-4e8b-a77e-8172c1838a79",
+    "data": [
+      {
+        "text": "fees",
+        "alias": "Fees",
+        "meta": "@Fees",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510873829
+  },
+  {
+    "id": "a3415ea8-9f3b-40a8-981e-437547245c11",
+    "data": [
+      {
+        "text": "how much do i owe the university?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510873829
+  },
+  {
+    "id": "7288ff70-0a4c-4809-84e6-f84eda2daff6",
+    "data": [
+      {
+        "text": "what are my current ",
+        "userDefined": false
+      },
+      {
+        "text": "fees",
+        "alias": "Fees",
+        "meta": "@Fees",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510873829
+  },
+  {
+    "id": "8691c1a3-dd49-4a65-bc47-695b2deb80a3",
+    "data": [
+      {
+        "text": "due",
+        "alias": "Fees",
+        "meta": "@Fees",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fee",
+        "alias": "Fees1",
+        "meta": "@Fees",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510873829
+  },
+  {
+    "id": "1bc00b8a-9b4b-402a-94d6-43d3553cb33b",
+    "data": [
+      {
+        "text": "fee",
+        "alias": "Fees",
+        "meta": "@Fees",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "alias": "Fees1",
+        "meta": "@Fees",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510873829
+  },
+  {
+    "id": "77629f8b-06eb-4d89-9049-707ed36114ad",
+    "data": [
+      {
+        "text": "what is my ",
+        "userDefined": false
+      },
+      {
+        "text": "amount",
+        "alias": "Fees",
+        "meta": "@Fees",
+        "userDefined": false
+      },
+      {
+        "text": " to be paid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510873829
+  }
+]

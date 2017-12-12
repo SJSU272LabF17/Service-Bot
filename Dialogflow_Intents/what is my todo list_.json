@@ -1,0 +1,29 @@
+{
+  "id": "290341d0-dfa4-45ac-a295-1f0d5a23ec92",
+  "name": "what is my todo list?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "admissionstatus"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512204303,
+  "fallbackIntent": false,
+  "events": []
+}

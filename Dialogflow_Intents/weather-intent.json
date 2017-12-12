@@ -1,0 +1,44 @@
+{
+  "id": "87b7ca4e-02b1-48a3-969f-2005de266d4f",
+  "name": "weather-intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b1a7506d-6931-42b1-b76d-d1fed50ba29d",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "fdbb2f62-d138-4f2a-866c-10e23bcc8e40",
+          "dataType": "@Temperature",
+          "name": "Temperature",
+          "value": "$Temperature",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In weather $geo-city"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510867277,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "8066e418-1bdc-454f-a19f-7dda2df04139",
+    "data": [
+      {
+        "text": "how is the weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "sunnyvale",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510867277
+  },
+  {
+    "id": "dda830d4-830b-4db1-a40c-901147c8e9a1",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "kelvin",
+        "alias": "Temperature",
+        "meta": "@Temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d5292a6-4d11-458f-b1b8-bdc9cebf1d2f",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "alias": "Temperature",
+        "meta": "@Temperature",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "san jose",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90ed5ecb-d356-4130-86da-7550b93699d3",
+    "data": [
+      {
+        "text": "what is the temperature in ",
+        "userDefined": false
+      },
+      {
+        "text": "mumbai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510867277
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "955743a2-0185-4c2a-af68-0a90754a8ecd",
+    "data": [
+      {
+        "text": "Spring",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      },
+      {
+        "text": " semester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97eace91-dc13-4cff-a5c2-c0cb38629544",
+    "data": [
+      {
+        "text": "spring",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "897351ad-f776-4793-a94f-7a93cae95c02",
+    "data": [
+      {
+        "text": "fall",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9526dd2a-7b20-4471-a53d-cbf4c989bbab",
+    "data": [
+      {
+        "text": "spring",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      },
+      {
+        "text": " semester please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5a2f7be-38a1-4df6-89a0-41d5ff692c55",
+    "data": [
+      {
+        "text": "fall",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      },
+      {
+        "text": " semester please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

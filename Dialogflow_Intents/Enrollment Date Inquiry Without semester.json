@@ -1,0 +1,53 @@
+{
+  "id": "2f599632-d058-49f1-bacf-db640161e610",
+  "name": "Enrollment Date Inquiry Without semester",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "which_semester",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fe4d30d1-c92a-4c7f-9f95-0cd8225814f8",
+          "required": false,
+          "dataType": "@Courses",
+          "name": "Courses",
+          "value": "$Courses",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "For which semester ?",
+            "Ok which semester ?"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "query": "enrollment-date-inquiry"
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512442430,
+  "fallbackIntent": false,
+  "events": []
+}

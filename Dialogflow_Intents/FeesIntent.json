@@ -1,0 +1,45 @@
+{
+  "id": "61fed3b6-49df-48f6-9e00-93504b86601f",
+  "name": "FeesIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cd70ed09-c553-469d-95e9-4f756b63ea5d",
+          "required": false,
+          "dataType": "@Fees",
+          "name": "Fees",
+          "value": "$Fees",
+          "isList": false
+        },
+        {
+          "id": "29d57c7f-af3e-488d-a8fd-0a9a1904518a",
+          "required": false,
+          "dataType": "@Fees",
+          "name": "Fees1",
+          "value": "$Fees1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "fee"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510873829,
+  "fallbackIntent": false,
+  "events": []
+}

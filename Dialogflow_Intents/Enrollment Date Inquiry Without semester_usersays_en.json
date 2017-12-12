@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1f5bf985-de0f-42ef-9981-b7c113ebf316",
+    "data": [
+      {
+        "text": "what is the next date of ",
+        "userDefined": false
+      },
+      {
+        "text": "enrollment",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442430
+  },
+  {
+    "id": "251855fb-39cc-472c-a9fd-31108ae4911d",
+    "data": [
+      {
+        "text": "what is the next date of ",
+        "userDefined": false
+      },
+      {
+        "text": "enrollment",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442430
+  },
+  {
+    "id": "f3beba7e-bdcb-4267-a484-b108db360028",
+    "data": [
+      {
+        "text": "when can i enroll next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442430
+  },
+  {
+    "id": "06275a12-d3fe-4061-93e6-e17e10707594",
+    "data": [
+      {
+        "text": "when can i enroll next?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442430
+  },
+  {
+    "id": "bb3b6d38-684f-4230-a35f-019b16844d26",
+    "data": [
+      {
+        "text": "what is the next date i can enroll?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442430
+  },
+  {
+    "id": "302b76ca-2f47-4cd7-adbe-26d2d577fbe5",
+    "data": [
+      {
+        "text": "what is the next date i can enroll",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442430
+  }
+]

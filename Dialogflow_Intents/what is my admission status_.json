@@ -1,0 +1,28 @@
+{
+  "id": "95e4e391-470b-41b2-a5b4-8a5647f30272",
+  "name": "what is my admission status?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "admissionstatus"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512204576,
+  "fallbackIntent": false,
+  "events": []
+}

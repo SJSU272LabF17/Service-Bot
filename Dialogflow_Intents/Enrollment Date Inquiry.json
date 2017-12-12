@@ -1,0 +1,51 @@
+{
+  "id": "850eb4f3-4f16-404b-ab4f-cc1e841039c4",
+  "name": "Enrollment Date Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d8d69629-69e3-42b4-ada2-792437a67fba",
+          "dataType": "@Courses",
+          "name": "Courses",
+          "value": "$Courses",
+          "isList": false
+        },
+        {
+          "id": "d4d83115-5f94-4a61-acce-b610b75dd460",
+          "dataType": "@semester",
+          "name": "semester",
+          "value": "$semester",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "query": "enrollment-date-inquiry",
+            "value": "$semester"
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512442739,
+  "fallbackIntent": false,
+  "events": []
+}
