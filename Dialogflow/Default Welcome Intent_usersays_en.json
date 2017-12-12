@@ -1,0 +1,35 @@
+[
+  {
+    "id": "43ea08d4-6406-4b7a-ac29-660a9f91c0fb",
+    "data": [
+      {
+        "text": "How are you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b5862ea-c556-499d-84e4-dae92c65394f",
+    "data": [
+      {
+        "text": "Hello, how are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7f4bd64-76e3-45bd-a767-72c32de3ba34",
+    "data": [
+      {
+        "text": "Hi!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

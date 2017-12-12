@@ -1,0 +1,56 @@
+[
+  {
+    "id": "849832cb-d7a7-42fa-bbc0-7b5873fef5ba",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "contact",
+        "alias": "ContactInfo1",
+        "meta": "@ContactInfo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "alias": "ContactInfo",
+        "meta": "@ContactInfo",
+        "userDefined": false
+      },
+      {
+        "text": " on file?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512203697
+  },
+  {
+    "id": "6e1411dd-b22c-43d9-ac39-9d0a7a54dd4e",
+    "data": [
+      {
+        "text": "what is my ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "alias": "ContactInfo",
+        "meta": "@ContactInfo",
+        "userDefined": false
+      },
+      {
+        "text": " on file?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512203697
+  }
+]

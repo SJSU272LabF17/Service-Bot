@@ -1,0 +1,37 @@
+{
+  "id": "1cac170c-dd96-4f91-b986-1eae3fdcee15",
+  "name": "Current semester grades?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3947f12a-f311-4953-b198-377ed4abee9e",
+          "required": false,
+          "dataType": "@Grade",
+          "name": "Grade",
+          "value": "$Grade",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "3.8"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510977681,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "0284e20d-b3a9-4ea6-9af5-e88a6148c01b",
+  "name": "AdvisorIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a11f1523-6ade-4626-b4a9-8102e34b1eab",
+          "required": false,
+          "dataType": "@ProgramAdvisor",
+          "name": "ProgramAdvisor",
+          "value": "$ProgramAdvisor",
+          "isList": false
+        },
+        {
+          "id": "23240011-edec-4088-a8f2-4c572d0171de",
+          "required": false,
+          "dataType": "@ProgramAdvisor",
+          "name": "ProgramAdvisor1",
+          "value": "$ProgramAdvisor1",
+          "isList": false
+        },
+        {
+          "id": "30268bf6-c407-49a0-bf8c-caf3db486f65",
+          "required": false,
+          "dataType": "@GeneralInfo",
+          "name": "GeneralInfo",
+          "value": "$GeneralInfo",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "advisor"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510976638,
+  "fallbackIntent": false,
+  "events": []
+}

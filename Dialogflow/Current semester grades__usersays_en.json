@@ -1,0 +1,190 @@
+[
+  {
+    "id": "6be8c988-2683-4f67-b54b-76d3680f6d24",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "grade",
+        "alias": "Grade",
+        "meta": "@Grade",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510977681
+  },
+  {
+    "id": "c938fded-7f91-4d00-af94-81259e52b46e",
+    "data": [
+      {
+        "text": "Grade",
+        "alias": "Grade",
+        "meta": "@Grade",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "187d8f27-5e04-4357-a225-11c015854907",
+    "data": [
+      {
+        "text": "My current ",
+        "userDefined": false
+      },
+      {
+        "text": "grade",
+        "alias": "Grade",
+        "meta": "@Grade",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510977681
+  },
+  {
+    "id": "fa73282e-cb3b-4347-8974-f444273e5ec0",
+    "data": [
+      {
+        "text": "What are my current ",
+        "userDefined": false
+      },
+      {
+        "text": "marks",
+        "alias": "Grade",
+        "meta": "@Grade",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510977681
+  },
+  {
+    "id": "9864da40-3556-48eb-b363-bb0b890c3b6b",
+    "data": [
+      {
+        "text": "Semester ",
+        "userDefined": false
+      },
+      {
+        "text": "grades?",
+        "alias": "Grade",
+        "meta": "@Grade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1a885a6b-9bbd-4da8-bd21-1c74b5adb484",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "grades",
+        "alias": "Grade",
+        "meta": "@Grade",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510977681
+  },
+  {
+    "id": "1f3b4be0-8748-409e-8594-af685e5564da",
+    "data": [
+      {
+        "text": "What is my current ",
+        "userDefined": false
+      },
+      {
+        "text": "marks",
+        "alias": "Grade",
+        "meta": "@Grade",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510977681
+  },
+  {
+    "id": "c5c74f7a-4e07-4895-9cab-a3349fb7ee5b",
+    "data": [
+      {
+        "text": "Current ",
+        "userDefined": false
+      },
+      {
+        "text": "gpa",
+        "alias": "Grade",
+        "meta": "@Grade",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510977681
+  },
+  {
+    "id": "5ad902ab-298f-48e6-a1ae-25839603de29",
+    "data": [
+      {
+        "text": "Current semester ",
+        "userDefined": false
+      },
+      {
+        "text": "grades",
+        "alias": "Grade",
+        "meta": "@Grade",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510977681
+  }
+]

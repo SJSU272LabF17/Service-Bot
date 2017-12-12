@@ -1,0 +1,46 @@
+{
+  "id": "0ec46037-9110-4e5a-9afb-3c3a6d65406b",
+  "name": "Enrollment date inquiry ask for semester",
+  "auto": true,
+  "contexts": [
+    "which_semester"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bbc81418-bf5f-495e-b1ae-ab91216f28ea",
+          "dataType": "@semester",
+          "name": "semester",
+          "value": "$semester",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "query": "enrollment-date-inquiry",
+            "value": "$semester"
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512442502,
+  "fallbackIntent": false,
+  "events": []
+}

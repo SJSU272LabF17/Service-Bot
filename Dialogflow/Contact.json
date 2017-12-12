@@ -1,0 +1,45 @@
+{
+  "id": "67326256-36a2-4cca-9c93-0075dbf06c90",
+  "name": "Contact",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "10ea024b-f08c-45d0-809a-cad8f138f424",
+          "required": false,
+          "dataType": "@ContactInfo",
+          "name": "ContactInfo",
+          "value": "$ContactInfo",
+          "isList": false
+        },
+        {
+          "id": "90d8beb1-5616-4891-8e06-ab979b4685f9",
+          "required": false,
+          "dataType": "@ContactInfo",
+          "name": "ContactInfo1",
+          "value": "$ContactInfo1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "contact"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512203697,
+  "fallbackIntent": false,
+  "events": []
+}

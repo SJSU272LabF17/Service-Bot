@@ -1,0 +1,233 @@
+[
+  {
+    "id": "2f8d3d72-bad4-47df-be90-5da14a4a3bb7",
+    "data": [
+      {
+        "text": "Application ",
+        "userDefined": false
+      },
+      {
+        "text": "Status",
+        "alias": "GeneralInfo",
+        "meta": "@GeneralInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42689630-4870-43d3-ac76-8cde687b4af7",
+    "data": [
+      {
+        "text": "My application ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "alias": "GeneralInfo",
+        "meta": "@GeneralInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "861a1b28-7663-4b9b-9fa8-95cefbfc72e9",
+    "data": [
+      {
+        "text": "What is my application ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "alias": "GeneralInfo",
+        "meta": "@GeneralInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1049c36-f932-452c-829b-ec80701f7b62",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "alias": "GeneralInfo",
+        "meta": "@GeneralInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a2a128d-5444-44be-bd7a-c115bb5e832e",
+    "data": [
+      {
+        "text": "What is my ",
+        "userDefined": false
+      },
+      {
+        "text": "admission",
+        "alias": "AdmissionStatus",
+        "meta": "@AdmissionStatus",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "alias": "GeneralInfo",
+        "meta": "@GeneralInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d33e7a30-c534-4dfa-a83d-6bd73087f9ff",
+    "data": [
+      {
+        "text": "Admission",
+        "alias": "AdmissionStatus",
+        "meta": "@AdmissionStatus",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "alias": "GeneralInfo",
+        "meta": "@GeneralInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510977342
+  },
+  {
+    "id": "0ae1e424-627b-401c-98bf-29b2bb929863",
+    "data": [
+      {
+        "text": "Enrollment",
+        "alias": "AdmissionStatus",
+        "meta": "@AdmissionStatus",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "alias": "GeneralInfo",
+        "meta": "@GeneralInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510977342
+  },
+  {
+    "id": "16b2c3e1-ba11-4e68-8613-7c573535092b",
+    "data": [
+      {
+        "text": "Admit",
+        "alias": "AdmissionStatus",
+        "meta": "@AdmissionStatus",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "alias": "GeneralInfo",
+        "meta": "@GeneralInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510977342
+  },
+  {
+    "id": "1b59d050-6d0c-4d1f-9602-ac7e7f2a5305",
+    "data": [
+      {
+        "text": "My current ",
+        "userDefined": false
+      },
+      {
+        "text": "admission",
+        "alias": "AdmissionStatus",
+        "meta": "@AdmissionStatus",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "alias": "GeneralInfo",
+        "meta": "@GeneralInfo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510977342
+  }
+]

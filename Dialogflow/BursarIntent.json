@@ -1,0 +1,85 @@
+{
+  "id": "9685f4a5-8991-4529-8833-baf23cee07e6",
+  "name": "BursarIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6a078ec1-9596-4900-9d59-29a19c7a827b",
+          "required": false,
+          "dataType": "@GeneralInfo",
+          "name": "GeneralInfo",
+          "value": "$GeneralInfo",
+          "isList": true
+        },
+        {
+          "id": "74f0354a-173e-4146-8713-44aed8b046d1",
+          "required": false,
+          "dataType": "@BursarEntity",
+          "name": "BursarEntity",
+          "value": "$BursarEntity",
+          "isList": true
+        },
+        {
+          "id": "537696cd-498d-4602-8bfb-297026fb9322",
+          "required": false,
+          "dataType": "@Website",
+          "name": "Website",
+          "value": "$Website",
+          "isList": true
+        },
+        {
+          "id": "1d817827-3b1f-4a73-8f8d-b76abba88a66",
+          "required": false,
+          "dataType": "@AddressEntity",
+          "name": "AddressEntity",
+          "value": "$AddressEntity",
+          "isList": true
+        },
+        {
+          "id": "751c00b0-dc37-4e5f-80db-5dc41f4bd89d",
+          "required": false,
+          "dataType": "@Payment",
+          "name": "Payment",
+          "value": "$Payment",
+          "isList": true
+        },
+        {
+          "id": "fabc8fdc-02b6-49fe-ba91-160a1b1ef904",
+          "required": false,
+          "dataType": "@BursarOffice",
+          "name": "BursarOffice",
+          "value": "$BursarOffice",
+          "isList": true
+        },
+        {
+          "id": "9dc2441d-97e8-4092-8857-97fb688a5ba2",
+          "required": false,
+          "dataType": "@Email",
+          "name": "O",
+          "value": "$O",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "bursar"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510977107,
+  "fallbackIntent": false,
+  "events": []
+}

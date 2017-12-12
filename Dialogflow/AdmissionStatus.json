@@ -1,0 +1,45 @@
+{
+  "id": "bb8b3274-38be-4c5c-830b-d27091ac5332",
+  "name": "AdmissionStatus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "823c4111-5a09-48f4-aba1-be727d416a4b",
+          "required": false,
+          "dataType": "@AdmissionStatus",
+          "name": "AdmissionStatus",
+          "value": "$AdmissionStatus",
+          "isList": false
+        },
+        {
+          "id": "dc987055-2086-4250-a74e-50303195195c",
+          "required": false,
+          "dataType": "@GeneralInfo",
+          "name": "GeneralInfo",
+          "value": "$GeneralInfo",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Classified graduate"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510977342,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,245 @@
+[
+  {
+    "id": "b86be47f-d33d-464d-8d80-15976dd1ccd2",
+    "data": [
+      {
+        "text": "What are my ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": " this semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66ea59c0-b335-4bd8-953b-6ce02a15746a",
+    "data": [
+      {
+        "text": "Tracks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bced8deb-bfcd-40d6-a29d-bced6cd4f25b",
+    "data": [
+      {
+        "text": "My tracks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "522b8151-26b3-4ea2-82d7-356c7f4be45f",
+    "data": [
+      {
+        "text": "What are my tracks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f7e334c-2da6-4574-8938-62e3e64538fe",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "course",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "746d5966-9d0c-462e-9588-31ce235cb033",
+    "data": [
+      {
+        "text": "classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a834cfe4-1db0-46e2-9ed4-51a40366eedc",
+    "data": [
+      {
+        "text": "courses",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "311c64e2-a7b9-49df-a2a7-179e4c735cfa",
+    "data": [
+      {
+        "text": "subjects",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64d90893-9e5b-4c0b-a04b-6d778b3c6b59",
+    "data": [
+      {
+        "text": "course",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "000cc862-a383-461b-98b5-94cc488329a9",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59076e74-55db-4477-a025-8bfc32f65d3b",
+    "data": [
+      {
+        "text": "want to see my ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a05923da-f3ec-40c6-9dd0-a62c90a9dfb0",
+    "data": [
+      {
+        "text": "my classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "acabbe40-1ae4-4c05-a737-a9cf70126667",
+    "data": [
+      {
+        "text": "what are my ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510872506
+  },
+  {
+    "id": "1e29f37e-5b6f-4789-8ab3-2b25c37ae57b",
+    "data": [
+      {
+        "text": "What are my enrolled ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510872506
+  },
+  {
+    "id": "d4e5ccaf-376f-44ef-981f-f31758f717a8",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "alias": "Courses",
+        "meta": "@Courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
