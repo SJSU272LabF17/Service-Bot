@@ -22,3 +22,10 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.App-main {
+  background-color: #444;
+  height: 250px;
+  padding: 50px;
+  color: grey;
+}
