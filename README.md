@@ -24,6 +24,7 @@ Team
 #### * ReactJS
 #### * Dialogflow API
 #### * MongoDB
+#### * Amazon Web Services
 
 ### Architecture diagram:
 ![Screenshot](architecture.png)
