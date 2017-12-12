@@ -1,0 +1,16 @@
+[
+  {
+    "value": "admission",
+    "synonyms": [
+      "admission",
+      "admit",
+      "status"
+    ]
+  },
+  {
+    "value": "Enrollment",
+    "synonyms": [
+      "Enrollment"
+    ]
+  }
+]
