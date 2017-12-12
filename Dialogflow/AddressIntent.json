@@ -1,0 +1,37 @@
+{
+  "id": "1da4f13e-a00e-418b-8ba1-8de2ce2108af",
+  "name": "AddressIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "149b1f2c-7757-4bc9-b449-ff072a80e0dc",
+          "required": false,
+          "dataType": "@AddressEntity",
+          "name": "AddressEntity",
+          "value": "$AddressEntity",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Address"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510971682,
+  "fallbackIntent": false,
+  "events": []
+}
